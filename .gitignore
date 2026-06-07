@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Drafts / duplicates / extra deliverables not used for this repo
+Project-Copy1.ipynb
+/Kenjale, Sachi Ghansham/
+CSC381_481-Proposal-Form_Kenjale-Sachi-Ghansham.docx
+CSC381_481_Project_Final_Deliverables.pdf
+Long_story_presentation.pdf
+short_story_presentation.pdf
+short_story_presentation.mov
+long-presentation.mov
+*.zip
+
+# Loose result images / extra assets not used for this repo
+/Image1(org,grayscale).png
+/image1(canny,dilated edges).png
+/image1(extracted_watermask).png
+/image1(final_watermask).png
+/image1(refined_watermask).png
+/image1(with,without_watermark).png
+/image2(org,grayscale).png
+/image2(org,sharpened_image).png
+/image2(water_removed).png
+/image2(watermark_mask).png
+
+# Environment
+.env
+*.env
