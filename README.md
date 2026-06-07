@@ -46,4 +46,3 @@ Two sample images are used to demonstrate the techniques:
 ## Project Documents
 
 - `Kenjale, Sachi Ghansham - Project Paper.pdf` — Full written project report
-- `Readme.rtf` — Original project notes and run instructions
